@@ -48,7 +48,7 @@ For more resources to assist with adoption and migration, see [New Outlook for W
 
 ### Stage 3: Cutover
 
-In the **cutover** stage, users are no longer be able to switch back to classic Outlook. New deployments of Outlook with Microsoft 365 subscriptions will feature new Outlook for Windows. IT administrators will have at least 12 months' notice before the cutover stage is implemented in Production rings. Existing installations of classic Outlook through perpetual licensing will continue to be supported until at least 2029.
+In the **cutover** stage, users are no longer be able to switch back to classic Outlook. New deployments of Outlook with Microsoft 365 subscriptions will feature new Outlook for Windows. IT administrators will have at least 12 months' notice before the cutover stage is implemented in Production rings. Existing installations of classic Outlook through perpetual and subscription licensing will continue to be supported until at least 2029.
 
 ## Communication between stages
 
